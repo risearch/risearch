@@ -1,5 +1,6 @@
 ## 👋 Data Scientist | Projektmanager | Research Professional
 
+Hi, ich bin Steffen: Analyst mit einem Hintergrund im Bereich Kommunikationswissenschaften und Bildung.
 Ich arbeite als Data Scientist mit einer Experte für Statistik und Projektmanagement. Meine Schwerpunkte liegen in der Anwendung von statistischen Verfahren, Modelloptimierung und tiefgehender Analyse von Datensets.
 Mein Fokus liegt darauf, Daten nicht nur abzufragen, sondern durch saubere Pipelines und intuitive Visualisierungen und Dashboards echte Entscheidungsgrundlagen zu schaffen.
 
