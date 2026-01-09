@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Über Mich
 
-Hallo, ich bin Steffen. Ich arbeite als Data Scientist mit einer Experte für Statistik und Projektmanagement. Meine Schwerpunkte liegen in der Anwendung von statistischen Verfahren, Modelloptimierung und tiefgehender Analyse von Datensets.
+Ich arbeite als Data Scientist mit einer Experte für Statistik und Projektmanagement. Meine Schwerpunkte liegen in der Anwendung von statistischen Verfahren, Modelloptimierung und tiefgehender Analyse von Datensets.
 
 - Abfragen und Bereinigung von Daten mit SQL und Python.
 - Erstellung von Berichten und Durchführung von Ad-hoc-Datenanalysen
