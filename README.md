@@ -1,6 +1,7 @@
-## 🙋🏻‍♀️ Über Mich
+## 👋 Data Scientist | Projektmanager | Research Professional
 
 Ich arbeite als Data Scientist mit einer Experte für Statistik und Projektmanagement. Meine Schwerpunkte liegen in der Anwendung von statistischen Verfahren, Modelloptimierung und tiefgehender Analyse von Datensets.
+Mein Fokus liegt darauf, Daten nicht nur abzufragen, sondern durch saubere Pipelines und intuitive Visualisierungen und Dashboards echte Entscheidungsgrundlagen zu schaffen.
 
 - Abfragen und Bereinigung von Daten mit SQL und Python.
 - Erstellung von Berichten und Durchführung von Ad-hoc-Datenanalysen
@@ -10,18 +11,25 @@ Ich arbeite als Data Scientist mit einer Experte für Statistik und Projektmanag
 - Statistische Modellierung mit Python.
 - KI Agenten mit n8n.
 
+### 🧪 Aktuelle Schwerpunkte & Projekte:
+Automatisierung: Bau von KI-gestützten Agenten-Systemen zur Datenvalidierung und Berichterstattung.
+
+Wirkungsanalyse: Statistische Auswertung von Bildungs- und Sozialprojekten (z. B. KESS-Faktoren Analyse).
+
 ### 📚 Projekte
 
-Hier ist mein Portfolio, wo ich einige Arbeitsproben darstelle [projects]().
+Hier geht es zu meinem Portfolio mit detaillierten Case Studies: [projects]().
 
-### 🛠️ Tools/Stack
+### 🛠️ Mein Tech-Stack
+Data Science/ Data Analytics & Stats: Python (Pandas, Scikit-Learn, PyMC), Statistische Modellierung, Modelloptimierung.
 
-- Sprachen: SQL, Python
-- Datenbanken: Google BigQuery, Microsoft SQL Server/Azure SQL, MySQL
-- Visualisierung: PowerBI, Google Looker
-- Deployment: Git, Docker
-- Cloud: Azure
+Data Engineering: SQL (BigQuery, Azure SQL, MySQL), Datenbank-Design & DWH-Optimierung.
+
+Visualisierung: Power BI, Google Looker Studio, Excel (Advanced).
+
+Modern Operations: KI-Agenten Workflows mit n8n, Docker, Git & Azure Cloud.
 
 ### 👋🏻 Hier können wir uns vernetzen:
 
 - [Linkedin](https://www.linkedin.com/in/steffen-riske-6016191b2/)
+
