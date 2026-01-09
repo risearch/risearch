@@ -22,11 +22,11 @@ Wirkungsanalyse: Statistische Auswertung von Bildungs- und Sozialprojekten (z. B
 Hier geht es zu meinem Portfolio mit detaillierten Case Studies: [projects]().
 
 ### 🛠️ Mein Tech-Stack
-Data Science/ Data Analytics & Stats: Python (Pandas, Scikit-Learn, PyMC), Statistische Modellierung, Modelloptimierung.
+Data Science/ Data Analytics & Stats: Python (Pandas, Scikit-Learn) Statistische Modellierung, Modelloptimierung.
 
 Data Engineering: SQL (BigQuery, Azure SQL, MySQL), Datenbank-Design & DWH-Optimierung.
 
-Visualisierung: Power BI, Google Looker Studio, Excel (Advanced).
+Visualisierung: Power BI, Google Looker Studio, Excel (Advanced), Python (seaborn).
 
 Modern Operations: KI-Agenten Workflows mit n8n, Docker, Git & Azure Cloud.
 
